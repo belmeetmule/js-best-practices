@@ -5,7 +5,7 @@
 # To Do List App
 
 ## Description
-This is a to-do-list app project. The application allows to add, edit, remove tasks in the to do list !!
+This is a to-do-list app project. The application allows to add, edit, remove tasks in the to do list. This versio of the app is meant for practicing code review !
 
 
 ## Live Demo
